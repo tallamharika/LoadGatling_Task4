@@ -62,15 +62,13 @@ The load testing exercise confirms that the tested application performs reliably
 - Load testing report (HTML)
 - Documentation of test results
 
-## output windows
+## Output Windows
 
-# graph1
-![Image]https://github.com/tallamharika/LoadGatling_Task4/blob/main/graph1.jpeg
+### Graph 1 – Requests Over Time
+![Graph 1](https://github.com/tallamharika/LoadGatling_Task4/blob/main/graph1.jpeg)
 
+### Graph 2 – Response Time Distribution
+![Graph 2](https://github.com/tallamharika/LoadGatling_Task4/blob/main/graph2.jpeg)
 
-# graph2
-![Image]https://github.com/tallamharika/LoadGatling_Task4/blob/main/graph2.jpeg
-
-
-# graph3
-![Image]https://github.com/tallamharika/LoadGatling_Task4/blob/main/graph3.jpeg
+### Graph 3 – Active Users
+![Graph 3](https://github.com/tallamharika/LoadGatling_Task4/blob/main/graph3.jpeg)
