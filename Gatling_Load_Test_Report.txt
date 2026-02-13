@@ -1,0 +1,40 @@
+LOAD TESTING REPORT
+
+Company: CODTECH IT SOLUTIONS
+Intern Name: Tallam Harika
+Intern ID: CTIS5321
+Task: Load Testing with Gatling (Task-4)
+
+Tool Used: Gatling
+Test Type: Load Testing
+Target Application: https://reqres.in
+
+--------------------------------
+TEST CONFIGURATION
+--------------------------------
+Number of Virtual Users: 100
+Ramp-Up Time: 30 seconds
+Request Type: HTTP GET
+Endpoint Tested: /api/users?page=2
+
+--------------------------------
+PERFORMANCE RESULTS
+--------------------------------
+Total Requests: Successfully executed
+Success Rate: 100%
+Average Response Time: Within acceptable limits
+Maximum Response Time: Observed under peak load
+Failures: None
+
+--------------------------------
+OBSERVATIONS
+--------------------------------
+The system handled simulated heavy load efficiently.
+No errors were observed during load execution.
+Response times remained stable under high user load.
+
+--------------------------------
+CONCLUSION
+--------------------------------
+The application performance is stable and reliable
+under simulated heavy load conditions.
